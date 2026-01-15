@@ -1,0 +1,28 @@
+{
+  "name": "69_2_fullstack_npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Themoonly/69_2_Fullstack_NPM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Themoonly/69_2_Fullstack_NPM/issues"
+  },
+  "homepage": "https://github.com/Themoonly/69_2_Fullstack_NPM#readme",
+  "devDependencies": {
+    "prettier": "^3.8.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
